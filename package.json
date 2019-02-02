@@ -1,0 +1,19 @@
+{
+  "name": "hapi-response-ok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hapi-response-ok.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuzhibin/hapi-response-ok.git"
+  },
+  "author": "wuzhibin@sf-express.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuzhibin/hapi-response-ok/issues"
+  },
+  "dependencies": {}
+}
